@@ -17,13 +17,13 @@ As seguintes fontes foram utilizadas como base de conhecimento para a IA:
 2.  **Detecção e Correção de Erros | Introdução a Redes Parte 2**
     * [Assistir no YouTube](https://www.youtube.com/watch?v=3W-8TQJwuWY&list=PLdsnXVqbHDUcTGjNZuRYCVj3AZtdt6oG7&index=2)
 3.  **Como sua Internet Funciona | Introdução a Redes Parte 3**
-    * [Assistir no YouTube]([https://www.youtube.com/watch?v=gcv5hXyTcIo](https://www.youtube.com/watch?v=gcv5hXyTcIo&list=PLdsnXVqbHDUcTGjNZuRYCVj3AZtdt6oG7&index=3))
+    * [Assistir no YouTube]([https://www.youtube.com/watch?v=gcv5hXyTcIo](https://www.youtube.com/watch?v=gcv5hXyTcIo&list=PLdsnXVqbHDUcTGjNZuRYCVj3AZtdt6oG7&index=3)
 4.  **Como Funciona Sockets, Cliente, Servidor e a Web? | Introdução a Redes Parte 4**
-    * [Assistir no YouTube]([https://www.youtube.com/watch?v=lc6U93P4Sxw](https://www.youtube.com/watch?v=lc6U93P4Sxw&list=PLdsnXVqbHDUcTGjNZuRYCVj3AZtdt6oG7&index=4))
+    * [Assistir no YouTube]([https://www.youtube.com/watch?v=lc6U93P4Sxw](https://www.youtube.com/watch?v=lc6U93P4Sxw&list=PLdsnXVqbHDUcTGjNZuRYCVj3AZtdt6oG7&index=4)
 5.  **Burlando Proxies e Firewalls | Introdução a Redes Parte 5 - SSH**
-    * [Assistir no YouTube]([https://www.youtube.com/watch?v=T-jHuFnxZ2k](https://www.youtube.com/watch?v=T-jHuFnxZ2k&list=PLdsnXVqbHDUcTGjNZuRYCVj3AZtdt6oG7&index=5))
+    * [Assistir no YouTube]([https://www.youtube.com/watch?v=T-jHuFnxZ2k](https://www.youtube.com/watch?v=T-jHuFnxZ2k&list=PLdsnXVqbHDUcTGjNZuRYCVj3AZtdt6oG7&index=5)
 6.  **Criando uma Rede Segura | Introdução a Redes Parte 6 - VPN e NAS**
-    * [Assistir no YouTube]([https://www.youtube.com/watch?v=EOmzo5d0F9Y](https://www.youtube.com/watch?v=EOmzo5d0F9Y&list=PLdsnXVqbHDUcTGjNZuRYCVj3AZtdt6oG7&index=6))
+    * [Assistir no YouTube]([https://www.youtube.com/watch?v=EOmzo5d0F9Y](https://www.youtube.com/watch?v=EOmzo5d0F9Y&list=PLdsnXVqbHDUcTGjNZuRYCVj3AZtdt6oG7&index=6)
 
 ---
 
