@@ -122,4 +122,4 @@ Confiabilidade e Erros
 * *"Quais são os principais tipos de erros de rede mencionados e como o Checksum ajuda a resolvê-los?"*
 
 ---
-✨ *Projeto desenvolvido para fins educacionais - Portfólio de Infraestrutura e Segurança.*
+✨ *Projeto desenvolvido para fins educacionais.*
